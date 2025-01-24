@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **nacisimsek/nacisimsek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## <p align="center">Hi 👋 I'm Naci</p>
+
+### <p align="center">and I'm a Technical Account Manager, focusing on Streaming Data Platforms.</p>
+#### <p align="center">Passionate for Event Streaming Systems, Stateful Stream Processing, and the Streaming Lakehouse </p>
+
+
+- 🔭 Working @Ververica
+- 🌱 I’m focusing mainly on **Apache Flink**, as well as other **Data Engineering** concepts.
+- 📝 I write articles on [nacisimsek.com](https://nacisimsek.com)
+- 💬 Ask me about **Streaming Systems** and **Unified Batch and Streaming** Architectures.
