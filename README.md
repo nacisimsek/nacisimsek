@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
 ## <p align="center">Hi 👋 I'm Naci</p>
 
-### <p align="center">and I'm a Technical Account Manager, focusing on Streaming Data Platforms.</p>
-#### <p align="center">Passionate for Event Streaming Systems, Stateful Stream Processing, and the Streaming Lakehouse </p>
+### <p align="center">Welcome to my Github page. Feel free to look around and do not hesitate to contact</p>
 
-
-- 🔭 Working @Ververica
+- 🔭 Working @Ververica as a Technical Account Manager (some says Customer Success Architect).
 - 🌱 I’m focusing mainly on **Apache Flink**, as well as other **Data Engineering** tools, frameworks and concepts.
 - 📝 I write articles on [nacisimsek.com](https://nacisimsek.com)
 - 💬 Ask me about **Streaming Systems** and **Unified Batch and Streaming** Architectures.
