@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ### <p align="center">Welcome to my Github page. Feel free to look around and do not hesitate to contact</p>
 
-- 🔭 Working @Ververica as a Technical Account Manager (some says Customer Success Technical Architect).
+- 🔭 Working [@Ververica](https://www.ververica.com/) as a Technical Account Manager (some says Customer Success Technical Architect).
 - 🌱 I’m focusing mainly on **Apache Flink**, as well as other **Data Engineering** tools, frameworks and concepts.
 - 📝 I write articles on my own blog page [nacisimsek.com](https://nacisimsek.com)
 - 💬 Ask me about **Streaming Systems** and **Unified Batch and Streaming** Architectures.
