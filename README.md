@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 
 
 - 🔭 Working @Ververica
-- 🌱 I’m focusing mainly on **Apache Flink**, as well as other **Data Engineering** concepts.
+- 🌱 I’m focusing mainly on **Apache Flink**, as well as other **Data Engineering** tools, frameworks and concepts.
 - 📝 I write articles on [nacisimsek.com](https://nacisimsek.com)
 - 💬 Ask me about **Streaming Systems** and **Unified Batch and Streaming** Architectures.
