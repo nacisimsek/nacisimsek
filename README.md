@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## <p align="center">Hi 👋 I'm Naci</p>
 
-### <p align="center">Welcome to my Github page. Feel free to look around and do not hesitate to contact</p>
+### <p align="center">Welcome to my Github page. Feel free to look around and contact</p>
 
 - 🔭 Working [@Ververica](https://www.ververica.com/) as a Technical Account Manager (some says Customer Success Technical Architect).
 - 🌱 I’m focusing mainly on **Apache Flink**, as well as other **Data Engineering** tools, frameworks and concepts.
