@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # <p align="center">Hey 👋 I'm Naci 🌴</p>
 
-## <p align="center">Welcome to my Github page. Feel free to look around</p>
+## <p align="center">Welcome to my Github page. Feel free to look around.</p>
 
 <p align="center"><br/>
  <a href="https://www.linkedin.com/in/nacisimsek/">
